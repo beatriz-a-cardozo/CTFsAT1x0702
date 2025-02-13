@@ -1,4 +1,4 @@
-# [Web Gauntlet 1]
+# Web Gauntlet 1
 ###### Solved by @beatriz-a-cardozo, @CupNudous
 > This is a CTF about Web Exploitation, Pentest, SQL Injection
 
