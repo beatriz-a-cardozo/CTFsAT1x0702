@@ -1,6 +1,6 @@
 # Web Gauntlet 1
 ###### Solved by @beatriz-a-cardozo, @CupNudous
-> This is a CTF about Web Exploitation, Pentest, SQL Injection
+> Esse é um CTF que envolve Web Exploitation e Pentest, mais especificamente SQL Injection.
 
 ## About the Challenge
 
